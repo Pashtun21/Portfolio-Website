@@ -1,0 +1,13 @@
+@charset "UTF-8";
+/* CSS Document */
+
+.name-text{
+	text-align: center;
+	font-size: 50px;
+}
+
+.nav-item{
+	margin-right:1em;
+	margin-left:1em;
+	border-radius:25px;
+}
